@@ -1,3 +1,7 @@
+# Deploy
+
+O projeto está disponível no seguinte link: [Verbum Libri](https://verbum-libri.vercel.app/)
+
 # Verbum Libri - Front-end
 
 Este é o front-end da plataforma de dicionário online, implementado em React e Next.js. Ele se comunica com a API RESTful do dicionário [api-dictionary](https://github.com/antonioluciofb/api-dictionary) a qual é necessário executar localmente.
